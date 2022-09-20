@@ -19,6 +19,8 @@
 
 ## :man_technologist: Who Am I?
 
+---
+
 - 🎓 My name is Neville Mathew. I recently completed my master's degree in Artificial Intelligence at Loughborough University in the UK. Aspiring to be a data scientist/machine learning engineer in the field of healthcare IT.
 
 - 🧑‍🎓 I am looking towards contributing for more healthcare and open source projects. As I enter into the field of AI/ML, I am looking towards improving my skills in the field of data science and machine learning. Additionally, I am also learning the mathematical theory for machine learning.
