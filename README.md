@@ -16,7 +16,7 @@
   Hi there! :vulcan_salute:
 </h1>
 
-## :man_technologist: Who Am I?
+### :man_technologist: Who Am I?
 
 - 🎓 My name is Neville Mathew. I recently completed my master's degree in Artificial Intelligence at Loughborough University in the UK. Aspiring to be a data scientist/machine learning engineer in the field of healthcare IT.
 
@@ -30,7 +30,7 @@
 
 ---
 
-### :hammer_and_wrench: &nbsp; Languages and Frameworks
+### :hammer_and_wrench: Languages and Frameworks
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
