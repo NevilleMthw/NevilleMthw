@@ -12,8 +12,7 @@
 <img src="https://komarev.com/ghpvc/?username=NevilleMthw&style=flat-square&color=blue" alt=""/>
 </div>
 <h1>
-  Hi there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi there! :vulcan_salute:
 </h1>
 
 <h2>
