@@ -30,7 +30,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Frameworks
+### :hammer_and_wrench: Languages and Frameworks :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -55,4 +55,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
 </p>
 
+---
+
+### :rocket: GitHub Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NevilleMthw&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NevilleMthw&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
