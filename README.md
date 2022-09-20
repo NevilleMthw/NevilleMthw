@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="codingpic.jpg" width="200"/>
+  <img src="codingpic.jpg" width="300"/>
 </div>
 
 <div id="badges" align="center">
